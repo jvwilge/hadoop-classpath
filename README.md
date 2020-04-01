@@ -9,3 +9,6 @@ This project uses Maven
 - build project : mvn clean package
 - add input.txt to hdfs : hadoop fs -put input.txt
 - run Hadoop job : hadoop jar target/classloading-1.0-SNAPSHOT-job.jar
+
+---
+**Archived on 1-apr-2020 - This repository is for reference only, it contains security issuess!!**
